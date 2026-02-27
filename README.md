@@ -50,6 +50,12 @@ Use "ubuntu-mirror-auditor [command] --help" for more information about a comman
 ./ubuntu-mirror-auditor daemon -m ./mirrors.txt
 ```
 
+Then to report the results:
+
+```bash
+./ubuntu-mirror-auditor report
+```
+
 ## Installation
 
 ### Prerequisites
