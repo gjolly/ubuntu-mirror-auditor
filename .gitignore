@@ -35,3 +35,6 @@ downloads/
 corrupted/
 *.iso
 SHA256SUMS
+
+# Mirror list files
+mirror-list.txt
